@@ -1,1 +1,0 @@
-../../de/_posts/2016-03-01-Impulse-Geben.md
